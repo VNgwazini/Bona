@@ -1,4 +1,7 @@
 # Bona
+
+(Development will resume August 2018)
+
 Deep learning image processing application for medical diagnosis.
 
 Bona is a project intended for users in 3rd world countries who have little to no access to local physicians. Many potential users own smartphones because they give them a means to communicate with family via VOIP. These smart phones are pocket-sized super computers that possess all the sensors and tools to utilize machine learning on.  Although still in the planning phase, there are 3 main goals of this project:
