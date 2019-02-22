@@ -1,6 +1,6 @@
 # Bona
-
-(Development will resume February 2019)
+//Restarted from scatch
+(Development will resume April 2019)
 Deep learning image processing application for medical diagnosis.
 
 (An experiment into mobile and embedded “classification” machine learning utilizing Google’s TensorFlow Lite framework, mainly for learning purposes.)
