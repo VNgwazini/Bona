@@ -1,5 +1,5 @@
 # Bona
-Restarted from scatch
+Restarted from scratch
 
 (Development will resume April 2019)
 Deep learning image processing application for medical diagnosis.
